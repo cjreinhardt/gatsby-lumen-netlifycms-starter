@@ -1,3 +1,10 @@
+## Gatsby-Lumen-NetlifyCMS Starter
+
+This is a fork of the excellent [Gatsby-Starter-Lumen](http://github.com/alxshelepenok/gatsby-starter-lumen) theme from [Alexander Shelepenok](http://github.com/alxshelepenok), tweaked a little bit to add NetlifyCMS and Netlify Identity support.
+
+Click 'Deploy to Netlify' below to get started:
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cjreinhardt/gatsby-lumen-netlifycms-starter)
+
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo.png" width="140"> </br>
     Lumen
