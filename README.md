@@ -3,7 +3,28 @@
 This is a fork of the excellent [Gatsby-Starter-Lumen](http://github.com/alxshelepenok/gatsby-starter-lumen) theme from [Alexander Shelepenok](http://github.com/alxshelepenok), tweaked a little bit to add NetlifyCMS and Netlify Identity support.
 
 Click 'Deploy to Netlify' below to get started:
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cjreinhardt/gatsby-lumen-netlifycms-starter)
+
+1. First you'l make a fork of this repository in your own Github account.
+
+2. You'll give Netlify access to your repository, Netlify will attempt to build the site on their infrastructure.
+
+3. If the deploy is successful Netlify will give you a url you can use to access your site. Check it out and make sure everything looks good.  
+
+4. Next, setup Netlify identity so you can login to Netlify CMS and edit your site. 
+
+5. On your Netlify site page, go to the 'Identity tab'. Click 'Enable Identity'.
+
+6. Click 'Invite Users' and invite yourself.
+
+7. Then go to 'settings and usage' under 'Identity'. 
+
+8. Click 'Services' on the left.
+
+9. Click 'Enable Git Gateway'. You will have to authenticate your Github account.
+
+10. Now, go to your email, you should have the invite you sent yourself earlier. Click the link, set a new password. You should now be able to login and edit your site via Netlify CMS. Voila!
 
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo.png" width="140"> </br>
