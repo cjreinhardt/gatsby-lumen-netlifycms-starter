@@ -152,7 +152,7 @@ export default {
         short_name: config.title,
         theme_color: "hsl(31, 92%, 62%)",
         background_color: "hsl(0, 0%, 100%)",
-        icon: "/photo.jpg",
+        icon: "static/photo.jpg",
         display: "standalone",
         start_url: "/",
       },
